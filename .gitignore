@@ -1,0 +1,4 @@
+# Archivos y directorios que deben ser ignorados
+.idea/
+__pycache__/
+*.pyc
