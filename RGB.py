@@ -44,7 +44,7 @@ with col_center:
     st.write(" ")
     st.write(" ")
     st.write(" ")
-    
+
 
 # channel values for pixel [0,0]
 col1, col2, col3, col4, col5, col6 = st.columns([0.1,0.5, 0.5,0.5, 0.1,0.1])
